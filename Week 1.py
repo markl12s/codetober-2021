@@ -5,6 +5,7 @@ pen = turtle.Turtle()
 pen.color('black')
 turtle.colormode(255)
 pen.hideturtle()
+pen.speed(0)
 
 window = turtle.Screen()
 window.bgcolor('white')
