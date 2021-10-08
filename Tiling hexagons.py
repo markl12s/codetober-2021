@@ -1,3 +1,9 @@
+"""
+Created for codetober 2021
+this program randomly tiles the screen with randomly colored hexagons
+Id like to make it bea ble to run as a desktop wallpaper
+"""
+
 import turtle, random
 
 #set up
